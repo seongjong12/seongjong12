@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...  <pre>&#9;<pre>KNUT
+- 🔭 I’m currently working on ...  <pre>&#9;KNUT
 - 🌱 I’m currently learning ...    machine learning - object detector
 - 🤔 I’m looking for help with ... ubuntu, python, docker, tensorflow, mask rcnn, yolov4
 
