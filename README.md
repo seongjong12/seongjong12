@@ -1,7 +1,7 @@
 ### Hi there 👋
-<pre>- 🔭 I’m currently working on ...    KNUT<pre>
-- 🌱 I’m currently learning ...machine learning - object detector
-- 🤔 I’m looking for help with ...ubuntu, python, docker, tensorflow, mask rcnn, yolov4
+<pre>- 🔭 I’m currently working on ...  KNUT<pre>
+<pre>- 🌱 I’m currently learning ...         machine learning - object detector<pre>
+<pre>- 🤔 I’m looking for help with ...      ubuntu, python, docker, tensorflow, mask rcnn, yolov4<pre>
 
 <!--
 **seongjong12/seongjong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
