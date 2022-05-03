@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...KNUT
-- 🌱 I’m currently learning ...docker,mask rcnn, yolov4, tensorflow
+- 🌱 I’m currently learning ...machine learning - object detector
 - 🤔 I’m looking for help with ...docker,mask rcnn, yolov4, tensorflow
 
 <!--
