@@ -1,9 +1,9 @@
 ### Hi there 👋
-<pre>
+
 - 🔭 I’m currently working on ...  KNUT
 - 🌱 I’m currently learning ...    machine learning - object detector
 - 🤔 I’m looking for help with ... ubuntu, python, docker, tensorflow, mask rcnn, yolov4<pre>
-<pre>
+
 <!--
 **seongjong12/seongjong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
