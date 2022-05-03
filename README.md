@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...&nbsp;KNUT
-- 🌱 I’m currently learning ...&nbsp;&nbsp;machine learning - object detector
-- 🤔 I’m looking for help with ...&nbsp;ubuntu, python, docker, tensorflow, mask rcnn, yolov4
+- 🔭 I’m currently working on ...&nbsp;&nbsp;&nbsp;KNUT <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/ko/8/87/%ED%95%9C%EA%B5%AD%EA%B5%90%ED%86%B5%EB%8C%80%ED%95%99%EA%B5%90_%EB%A1%9C%EA%B3%A0.png" height="16" width="16" border="0">
+- 🌱 I’m currently learning ...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;machine learning - object detector
+- 🤔 I’m looking for help with ...&nbsp;&nbsp;&nbsp;ubuntu, python, docker, tensorflow, mask rcnn, yolov4
 
 <!--
 **seongjong12/seongjong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
