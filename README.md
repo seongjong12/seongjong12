@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...&nbsp;KNUT
+<pre>- 🔭 I’m currently working on ...    KNUT<pre>
 - 🌱 I’m currently learning ...machine learning - object detector
 - 🤔 I’m looking for help with ...ubuntu, python, docker, tensorflow, mask rcnn, yolov4
 
